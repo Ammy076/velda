@@ -26,3 +26,13 @@ In the Velda workflow, the roles are represented as follows:
 | ------- | -------------- | ----------- |
 
 | Velda | 1680550958.036798068 | [Link]() |
+
+- Policy on Guardian
+  ![policy](/photos/guardian-policy.png)
+
+- Schema
+  ![schema](/photos/schema.png)
+
+![shot](/photos/shot.png)
+
+![shot](/photos/shot2.png)
